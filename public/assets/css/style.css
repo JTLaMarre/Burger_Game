@@ -1,7 +1,9 @@
+body{
+  background-image: linear-gradient(to right, yellow, lightgreen);
+}
 li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
   }
   
   .label {
@@ -16,4 +18,8 @@ li {
   
   .form-group {
     margin-bottom: 5px;
+  }
+  #burgerIcon{
+    height: 150px;
+    width: 150px;
   }
